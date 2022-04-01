@@ -1,9 +1,5 @@
 # Halo 👋
-<!-- <p>
-  <img src="https://img.shields.io/badge/-Vue-00b894" />
-  <img src="https://img.shields.io/badge/-React-2f3542" />
-  <img src="https://img.shields.io/badge/-HTML-ff4757" />
-  <img src="https://img.shields.io/badge/-Javascript-ffa502" />
-  <img src="https://img.shields.io/badge/-Rust-ff4757" />
-</p>
- -->
+
+
+| <a href="https://github.com/yankitalone"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yankitalone&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yankit's github stats" /></a> | <a href="https://github.com/yankitalone"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yankitalone&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
